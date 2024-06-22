@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React JS , Tailwind CSS Bootstrap Material UI Redux, HTML CSS, JavaScript, other forntend Libraries and backend also Like Node Js, Express, MongoDB and other stuff I always learn something new **
+- 🌱 I Know these tech and other tech as well **React JS , Tailwind CSS Bootstrap Material UI Redux, HTML CSS, JavaScript, other forntend Libraries and backend also Like Node Js, Express, MongoDB and other stuff I always learn something new **
 
 - 📫 How to reach me **thakurarvindkr10@gmail.com**
 
