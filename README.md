@@ -1,15 +1,71 @@
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
-- 🌱 I Know these tech and other tech as well **React JS , Tailwind CSS Bootstrap Material UI Redux, HTML CSS, JavaScript, other forntend Libraries and backend also Like Node Js, Express, React Query, NextJS, MongoDB and other stuff I always learn something new **
-
-- 📫 How to reach me **thakurarvindkr10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I love building scalable web applications, learning new technologies, and creating real-world solutions using modern tools.  
+Always exploring something new in Web Development, Backend Engineering, and Artificial Intelligence.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindkr123&show_icons=true&locale=en&layout=compact" alt="arvindkr123" /></p>
+### 🌟 **About Me**
+- 🔥 Passionate **Full Stack Developer** from India  
+- 💻 Skilled in frontend, backend, databases, and cloud services  
+- 🌱 Currently exploring **AI, ML, and advanced system design**  
+- ✨ Strong knowledge of:  
+  **React JS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Redux, Node.js, Express, Next.js, React Query, MongoDB,**  
+  plus programming languages **Python, Java, C++**  
+- 🤖 Learning more about **AI, LLMs, Machine Learning models**  
+- 📫 Reach me at **thakurarvindkr10@gmail.com**
+
+---
+
+### 🤝 **Connect with Me**
+<p align="left">
+  <a href="mailto:thakurarvindkr10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arvind-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/arvindkr123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ **Languages & Tools**
+<p align="left">
+  
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=light" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,html,css&theme=light" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=light" />
+
+<!-- Tools & Others -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
+
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindkr123&show_icons=true&locale=en&layout=compact" alt="arvindkr123" />
+</p>
+
+---
+
+### 💡 **What I Bring to the Table**
+- 🔧 Ability to turn ideas into full production-ready applications  
+- ✔️ Strong problem-solving mindset  
+- ⚡ Fast learner with adaptability to new technologies  
+- 🤝 Team player with clean coding and scalable architecture approach  
+- 🚀 Always improving myself to build better products  
+
+---
+
+### 📬 **Let's Work Together**
+If you're a recruiter or company looking for a passionate developer who can build modern products and keep learning continuously —  
+📩 **Feel free to reach out: _thakurarvindkr10@gmail.com_**
+
+---
