@@ -43,17 +43,7 @@ Always exploring something new in Web Development, Backend Engineering, and Arti
 
 <!-- Tools & Others -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
-
 </p>
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvindkr123&show_icons=true&theme=tokyonight" />
-</p>
-
-
 ---
 
 ### 💡 **What I Bring to the Table**
