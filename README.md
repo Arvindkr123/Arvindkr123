@@ -50,8 +50,9 @@ Always exploring something new in Web Development, Backend Engineering, and Arti
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindkr123&show_icons=true&locale=en&layout=compact" alt="arvindkr123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindkr123&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
